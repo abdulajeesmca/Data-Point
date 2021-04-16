@@ -1,0 +1,4 @@
+requests
+ipwhois 
+pprint 
+tkinter 
