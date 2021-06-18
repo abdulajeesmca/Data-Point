@@ -31,9 +31,9 @@ except:
  
 versionNo = '1.0'
  
-VT_API_KEY = 'add38e4a460138b4111046a0ec3192de61f4ed965f2110c5a577e3c628fa15e4'
-AB_API_KEY = '01c5e3385a220046b85f1fb601aa110006f301ba64708bfd7cd06d9d1a47464bffbf37e779633a3f'
-URLSCAN_IO_KEY = '7fedb7e4-12e1-4034-8d43-8f36a94fc8e2'
+VT_API_KEY = ''
+AB_API_KEY = ''
+URLSCAN_IO_KEY = ''
  
 linksFoundList = []
 linksRatingList = []
